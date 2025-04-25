@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm a student at Telecom SudParis I started programming when i was young enventhough my github account is pretty new, i published some of my older project if you wanna check them.
 <!--
 **Mimilv1/Mimilv1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
